@@ -1,0 +1,6 @@
+ChickenLeg 43
+Cream 1720
+OliveOil 1720
+Rosemary 43
+Thyme 43
+Garlic 258
