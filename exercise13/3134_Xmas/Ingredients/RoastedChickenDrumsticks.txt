@@ -1,0 +1,6 @@
+ChickenLeg 1
+Cream 40
+OliveOil 40
+Rosemary 1
+Thyme 1
+Garlic 6

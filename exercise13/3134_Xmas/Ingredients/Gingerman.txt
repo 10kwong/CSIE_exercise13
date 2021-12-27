@@ -1,0 +1,6 @@
+cream 200
+FineSugar 250
+BakingSoda 2 
+Eggs 3
+Medium-glutenFlour 250
+Jam 10
